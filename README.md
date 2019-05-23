@@ -3,6 +3,7 @@ projects and codes, from tasks on Machine learning
 
 Contains:
 1. Projects, I have been working:
+
 a) Logistic Regression (from scrath),
 b) Sentiment Analysis of the Social Media (with Twitter),
 c) A Convolutional Neural Network, implementing Digit Recognition (achieved accuracy = 99,95%),
