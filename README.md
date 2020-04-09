@@ -4,7 +4,7 @@ projects and codes, from tasks on Machine learning
 Contains:
 1. Projects, I have been working (written on Python in the jupyter notebook):
 <br/>a) Logistic Regression (from scrath),
-<br/>b) Sentiment Analysis of the Social Media (with Twitter),
+<br/>b) Sentiment Analysis of the Social Media (with Twitter, as well as IMDB),
 <br/>c) A Convolutional Neural Network, implementing Digit Recognition (achieved accuracy = 99,95%),
 <br/>d) Algorithm for Background Removing
 2. Presentations, documenting the working process,
